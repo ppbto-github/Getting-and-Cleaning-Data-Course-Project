@@ -8,4 +8,4 @@ The script run_analysis.R performs the 5 steps described in the course project's
    x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
    x, y and datos merge the previous datasets to further analysis.
    features contains the correct names for the x dataset, which are applied to the column names stored in momentos_uno_dos, a numeric vector used to extract the desired data.
-7. Finally, tidy_dat.txt that contains the relevant averages by each subject and activity 
+7. Finally, data.txt that contains the relevant averages by each subject and activity 
